@@ -2,8 +2,7 @@
 
 <a href="https://medium.com/@Vcitor">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-
+</a>  
 
 **Languages and Tools:**
 
