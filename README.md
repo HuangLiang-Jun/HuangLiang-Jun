@@ -5,7 +5,9 @@
 </a>  
 <br><br>
 
-<img src="./github-metrics.svg" />
+<p align="center">
+  <img src="./github-metrics.svg" width="90%" />
+</p>
 
 **Languages and Tools:**
 <br><br>
