@@ -1,18 +1,4 @@
-# name: Metrics
-# on:
-#   schedule:
-#     - cron: "0 0 * * *"
-#   push:
-#     branches: ["master"]
 
-# jobs:
-#   github-metrics:
-#     runs-on: ubuntu-latest
-#     steps:
-#       - uses: lowlighter/metrics@latest
-#         with:
-#           token: ${{ secrets.METRICS_TOKEN }}
-#           plugin_isocalendar: yes
 
 name: GitHub-Profile-3D-Contrib
 
