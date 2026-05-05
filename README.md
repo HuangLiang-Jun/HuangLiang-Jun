@@ -5,7 +5,7 @@
 </a>  
 <br><br>
 
-<img src="./metrics.plugin.isocalendar.svg" />
+<img src="./github-metrics.svg" />
 
 **Languages and Tools:**
 <br><br>
