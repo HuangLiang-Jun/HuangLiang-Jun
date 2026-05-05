@@ -4,7 +4,7 @@
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>  
 <br><br>
-# repo from: https://github.com/yoshi389111/github-profile-3d-contrib
+* repo from: https://github.com/yoshi389111/github-profile-3d-contrib
 <p align="center">
   <img src="./profile-3d-contrib/profile-gitblock.svg" />
 </p>
