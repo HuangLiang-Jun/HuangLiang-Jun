@@ -6,7 +6,7 @@
 <br><br>
 
 <p align="center">
-  <img src="./github-metrics.svg" width="90%" />
+  <img src="./profile-3d-contrib/profile-green-animate.svg" />
 </p>
 
 **Languages and Tools:**
